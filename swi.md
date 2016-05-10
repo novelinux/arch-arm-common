@@ -19,7 +19,7 @@ swi软中断
 
 ### fork
 
-https://github.com/leeminghao/doc-linux/blob/master/4.x.y/kernel/fork_c/fork.md
+https://github.com/novelinux/linux-4.x.y/tree/master/kernel/fork_c/fork.md
 
 
 指令格式
@@ -68,4 +68,4 @@ Linux kernel swi中断处理函数
 * 4.将pc值+4的地址，也就是swi指令的下一行地址写入lr_svc中
 * 5.__vectors_start+8写入pc（向量表第三项，系统调用的处理函数）
 
-https://github.com/leeminghao/doc-linux/blob/master/4.x.y/arch/arm/kernel/entry-armv.S/__vector_start.md
+https://github.com/novelinux/linux-4.x.y/tree/master/arch/arm/kernel/entry-armv.S/__vector_start.md
