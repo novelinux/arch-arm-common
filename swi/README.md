@@ -19,7 +19,7 @@ swi软中断
 
 ### fork
 
-https://github.com/novelinux/linux-4.x.y/tree/master/kernel/fork.c/fork.md
+https://github.com/novelinux/system_calls/blob/master/fork.md
 
 指令格式
 ----------------------------------------
